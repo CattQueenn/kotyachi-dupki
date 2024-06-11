@@ -1,1 +1,1 @@
-[{"type":"header","subtype":"h1","label":"Як часто робити масас коту?"},{"type":"radio-group","label":"Multiple Choice","name":"radio-group-1718115613216-0","values":[{"label":"Двічі на день","value":"1","selected":false},{"label":"Двічі на місяць","value":"2","selected":false}]}]
+[{"type":"header","subtype":"h1","label":"Як часто робити масас коту?"},{"type":"radio-group","label":"Multiple Choice","name":"radio-group-1718115613216-0","values":[{"label":"Двічі на день","value":"1","selected":true},{"label":"Двічі на місяць","value":"2","selected":false}]}]

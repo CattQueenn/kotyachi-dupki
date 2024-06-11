@@ -1,1 +1,1 @@
-[{"type":"header","subtype":"h1","label":"Чим пахне котяча дупця?"},{"type":"radio-group","label":"Чим пахне котяча дупця?","name":"radio-group-1718115528204-0","values":[{"label":"щастям","value":"1","selected":false},{"label":"котячком","value":"2","selected":false}]}]
+[{"type":"header","subtype":"h1","label":"Чим пахне котяча дупця?"},{"type":"radio-group","label":"Чим пахне котяча дупця?","name":"radio-group-1718115528204-0","values":[{"label":"щастям","value":"1","selected":true},{"label":"котячком","value":"2","selected":false}]}]
